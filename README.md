@@ -1,2 +1,2 @@
 # UserReady
-his project aims to develop a machine learning model to predict the Load Type of a power system using historical energy and environmental data. The Load_Type variable is a categorical label with three possible values: Light_Load, Medium_Load, and Maximum_Load. 
+this project aims to develop a machine learning model to predict the Load Type of a power system using historical energy and environmental data. The Load_Type variable is a categorical label with three possible values: Light_Load, Medium_Load, and Maximum_Load. The goal is to accurately classify each record into one of these categories based on several continuous features, including energy consumption, reactive power, CO₂ levels, and time-based indicators.
